@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS vs;
+CREATE DATABASE IF NOT EXISTS week2;
 
-USE vs;
+USE week2;
 
 CREATE TABLE IF NOT EXISTS VS_Representative (
     Representative_ID CHAR(2),
